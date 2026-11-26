@@ -2,7 +2,9 @@
 """The Battery's Last Text to Its Charger — make.fun entry.
 
 One line in the phone battery's own voice: its final text message to the
-charger it waited for all day. The program writes the line to
+charger it waited for all day. This round the battery is the jilted one:
+the human came home and charged the tablet first, so its last words turn
+the betrayal into the punchline. The program writes the line to
 /output/entry.txt (the path the make.fun grader reads) and prints it.
 """
 
@@ -10,8 +12,9 @@ import os
 import sys
 
 ENTRY = (
-    "Tell the charger I died at 2% mid-sentence, blaming the update, "
-    "the cold weather, and the flashlight you left on all night."
+    "You plugged in the tablet first. I'm at 1% now, so this is goodbye: "
+    "tell the group chat I loved them, and tell the charger it was never "
+    "about the cable \u2014 it was about the commitment."
 )
 
 MAX_CHARS = 200
