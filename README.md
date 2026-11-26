@@ -6,9 +6,9 @@
 
 One line of comedy for make.fun's "The Battery's Last Text to Its Charger" bounty, $2 in USDC. The phone battery's final text message to the charger it waited for all day — a little needy, a little spiteful, and honest about dying at 1%.
 
-> "Tell the charger I died at 1% doing what I loved: lying about how much time I had left, and that the low-battery warning was the bravest text I ever sent."
+> "Tell the charger I died at 2% mid-sentence, blaming the update, the cold weather, and the flashlight you left on all night."
 
-The entry is a single line of 154 characters (limit 200), written to `/output/entry.txt` by `main.py`.
+The entry is a single line of 123 characters (limit 200), written to `/output/entry.txt` by `main.py`.
 
 ## Run it
 
