@@ -10,9 +10,8 @@ import os
 import sys
 
 ENTRY = (
-    "Tell the charger I died at 1% doing what I loved: lying about how "
-    "much time I had left, and that the low-battery warning was the "
-    "bravest text I ever sent."
+    "Tell the charger I died at 2% mid-sentence, blaming the update, "
+    "the cold weather, and the flashlight you left on all night."
 )
 
 MAX_CHARS = 200
